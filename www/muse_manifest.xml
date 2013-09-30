@@ -1,0 +1,37 @@
+<manifest alg="2" build="751" opt="true" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="114823713"/>
+    <file name="master_a-master.css" crc="123560637" ref="index:about:contact"/>
+    <file name="index.css" crc="245672558" ref="index"/>
+    <file name="about.css" crc="375629706" ref="about"/>
+    <file name="contact.css" crc="3946393363" ref="contact"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:contact"/>
+    <file name="museutils.js" crc="441941709" ref="index:about:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3956991090" ref="index"/>
+    <file name="webpro.js" crc="197321703" ref="index:contact"/>
+    <file name="musewpslideshow.js" crc="4283859919" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3836522771" ref="index"/>
+    <file name="touchswipe.js" crc="4156838003" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index:about:contact"/>
+    <file name="jquery.tobrowserwidth.js" crc="317228635" ref="index:about:contact"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:about:contact"/>
+    <file name="form_check.php" crc="462547881" ref="contact"/>
+    <file name="form_throttle.php" crc="461893632" ref="contact"/>
+    <file name="form-u238.php" crc="4257679550" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="demo_1-01.png" crc="4259466481" ref="index"/>
+    <file name="demo_1-02.png" crc="35398031" ref="index"/>
+    <file name="demo_1-03.png" crc="244527270" ref="index"/>
+    <file name="demo_1-04.png" crc="177719326" ref="index"/>
+    <file name="u270-17.png" crc="236349253" ref="contact"/>
+    <file name="u270-17-r.png" crc="401733888" ref="contact"/>
+    <file name="u270-17-m.png" crc="345933530" ref="contact"/>
+    <file name="u270-17-fs.png" crc="3869785650" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="4211972283" mt="1380562593593"/>
+  <file name="about.html" crc="287841840" mt="1380562593595"/>
+  <file name="contact.html" crc="3978301071" mt="1380562610782"/>
+</manifest>
